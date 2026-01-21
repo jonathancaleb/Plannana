@@ -1,4 +1,4 @@
-# Palantír 🧙‍♂️
+# Plannana 🧙‍♂️
 
 My tiny Kotlin app that keeps me on the road to Mordor (and the gym).
 
