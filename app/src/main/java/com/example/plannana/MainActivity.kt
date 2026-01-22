@@ -1,4 +1,4 @@
-package com.example.palantir
+package com.example.plannana
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.example.palantir.databinding.ActivityMainBinding
+import com.example.plannana.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

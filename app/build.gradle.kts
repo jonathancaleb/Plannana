@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.palantir"
+    namespace = "com.example.plannana"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.palantir"
+        applicationId = "com.example.plannana"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
