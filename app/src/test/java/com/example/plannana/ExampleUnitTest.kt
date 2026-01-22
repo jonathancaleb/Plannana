@@ -1,4 +1,4 @@
-package com.example.palantir
+package com.example.plannana
 
 import org.junit.Test
 
